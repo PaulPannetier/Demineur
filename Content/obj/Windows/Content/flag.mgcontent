@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/Users/leona/Desktop/I'm a folder/Perso/Prog/C#/Demineur/Content/flag.png</SourceFile>
+  <SourceTime>2020-11-18T11:51:02+01:00</SourceTime>
+  <DestFile>F:/Users/leona/Desktop/I'm a folder/Perso/Prog/C#/Demineur/Content/bin/Windows/Content/flag.xnb</DestFile>
+  <DestTime>2022-01-10T20:52:18.5331948+01:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
